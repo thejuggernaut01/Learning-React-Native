@@ -1,6 +1,6 @@
 I covered the following:
 1. React Native Core Components
-2. Custome core components
+2. Custom core components
 3. Built pokemon card
 4. Forms in React Native
 5. Networking in React Native
